@@ -3,7 +3,7 @@ This is an assignment submission repository for the online course iNeuron.ai - F
 
 |Table of Content|Total Assignments|Submitted|
 |:-----|:----:|:---:|
-|[Python Basics](/Python%20Basics)|25|2|
+|[Python Basics](/Python%20Basics)|25|4|
 |[Python Basics Programming](Python%20Basics%20Programming)|25|0|
 |[Python Advanced](Python%20Advanced)|25|0|
 |[DL Theory](DL%20Theory)|16|0|
